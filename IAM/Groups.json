@@ -1,0 +1,37 @@
+[
+    {
+        "id": "groupId1",
+        "name": "Admins",
+        "users": [],
+        "permissions": [
+            "permissionId1",
+            "permissionId2"
+        ],
+        "roles": [
+            "roleId1"
+        ]
+    },
+    {
+        "id": "groupId2",
+        "name": "Managers",
+        "users": [],
+        "permissions": [
+            "permissionId2",
+            "permissionId3"
+        ],
+        "roles": [
+            "roleId2"
+        ]
+    },
+    {
+        "id": "groupId3",
+        "name": "Employees",
+        "users": [],
+        "permissions": [
+            "permissionId3"
+        ],
+        "roles": [
+            "roleId3"
+        ]
+    }
+]

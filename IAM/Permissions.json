@@ -1,0 +1,26 @@
+[
+    {
+        "id": "permissionId1",
+        "name": "Create",
+        "resource": "accounts",
+        "actions": [
+            "create"
+        ]
+    },
+    {
+        "id": "permissionId2",
+        "name": "Read",
+        "resource": "accounts",
+        "actions": [
+            "read"
+        ]
+    },
+    {
+        "id": "permissionId3",
+        "name": "Update",
+        "resource": "accounts",
+        "actions": [
+            "update"
+        ]
+    }
+]

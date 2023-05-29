@@ -1,0 +1,42 @@
+[
+    {
+      "id":"userId1",
+      "username": "john",
+      "password": "password123",
+      "email": "john@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "groups": ["groupId1"],
+      "role": "roleId1"
+    },
+    {
+      "id":"userId2",
+      "username": "jane",
+      "password": "password456",
+      "email": "jane@example.com",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "groups": ["groupId2"],
+      "role": "roleId2"
+    },
+    {
+      "id":"userId3",
+      "username": "alex",
+      "password": "password789",
+      "email": "alex@example.com",
+      "firstName": "Alex",
+      "lastName": "Johnson",
+      "groups": ["groupId3"],
+      "role": "roleId3"
+    },
+    {
+      "id":"userId4",
+      "username": "alex",
+      "password": "password789",
+      "email": "alex@example.com",
+      "firstName": "Alex",
+      "lastName": "Johnson",
+      "groups": [""],
+      "role": ""
+    }
+  ]

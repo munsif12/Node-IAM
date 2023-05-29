@@ -1,0 +1,25 @@
+[
+    {
+        "id": "roleId1",
+        "name": "Admin",
+        "permissions": [
+            "permissionId1",
+            "permissionId2"
+        ]
+    },
+    {
+        "id": "roleId2",
+        "name": "Manager",
+        "permissions": [
+            "permissionId2",
+            "permissionId3"
+        ]
+    },
+    {
+        "id": "roleId3",
+        "name": "Employee",
+        "permissions": [
+            "permissionId3"
+        ]
+    }
+]
